@@ -17,7 +17,7 @@
     
     TOTAL WORKFLOW
     Data process 1:
-    ![image](https://user-images.githubusercontent.com/96851523/147739232-231ba9c8-dc11-436f-a8df-47ec01ca78d6.png)
+    ![image](https://github.com/xiaolianshiwo/Python-final-project-group2/blob/gallery/process1.png)
     
     Data process 2 (improved methods):
     ![image](https://user-images.githubusercontent.com/96851523/147739271-50d5ec84-172a-4707-bd6b-b5f2d63ebd9f.png)

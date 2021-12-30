@@ -30,4 +30,4 @@
 ## 3D structure
     Using NGLview
     see details at https://github.com/nglviewer/nglview![image](https://user-images.githubusercontent.com/96851523/147740570-556d9e6c-b1a5-45f3-b674-7cb19329062f.png)
-    ![Uploading image.png…]()
+    ![image](https://github.com/xiaolianshiwo/Python-final-project-group2/blob/gallery/3D_structure.png)

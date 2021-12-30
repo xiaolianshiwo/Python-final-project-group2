@@ -20,7 +20,7 @@
     ![image](https://github.com/xiaolianshiwo/Python-final-project-group2/blob/gallery/process1.png)
     
     Data process 2 (improved methods):
-    ![image](https://user-images.githubusercontent.com/96851523/147739271-50d5ec84-172a-4707-bd6b-b5f2d63ebd9f.png)
+    ![image](https://github.com/xiaolianshiwo/Python-final-project-group2/blob/gallery/process2.png)
     
 ## Interacted plot
     The plot show the phi and psi based on above total dataframe from pre-processing

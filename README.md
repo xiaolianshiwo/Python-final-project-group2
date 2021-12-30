@@ -9,7 +9,7 @@
     See details in 合并df.zip
     data cleaning and merge.
     Verify the data with Biopython output.
-    ![image](https://github.com/xiaolianshiwo/Python-final-project-group2/blob/gallery/verify.png)
+    ![image](gallery/verify.png)
     
 ## RAMAplot model
     See details in code_for_RAMA_plot.ipynb
@@ -17,17 +17,17 @@
     
     TOTAL WORKFLOW
     Data process 1:
-    ![image](https://github.com/xiaolianshiwo/Python-final-project-group2/blob/gallery/process1.png)
+    ![image](gallery/process1.png)
     
     Data process 2 (improved methods):
-    ![image](https://github.com/xiaolianshiwo/Python-final-project-group2/blob/gallery/process2.png)
+    ![image](/process2.png)
     
 ## Interacted plot
     The plot show the phi and psi based on above total dataframe from pre-processing
     
-    ![image](https://github.com/xiaolianshiwo/Python-final-project-group2/blob/main/gallery.rar)
+    ![image]()
     
 ## 3D structure
     Using NGLview
     see details at https://github.com/nglviewer/nglview![image](https://user-images.githubusercontent.com/96851523/147740570-556d9e6c-b1a5-45f3-b674-7cb19329062f.png)
-    ![image](https://github.com/xiaolianshiwo/Python-final-project-group2/blob/gallery/3D_structure.png)
+    ![image](gallery/3D_structure.png)

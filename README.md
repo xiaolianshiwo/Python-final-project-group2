@@ -17,10 +17,10 @@
     
     TOTAL WORKFLOW
     Data process 1:
-    ![process 1](https://user-images.githubusercontent.com/96851523/147739232-231ba9c8-dc11-436f-a8df-47ec01ca78d6.png)
+    ![image](https://user-images.githubusercontent.com/96851523/147739232-231ba9c8-dc11-436f-a8df-47ec01ca78d6.png)
     
     Data process 2 (improved methods):
-    ![process 2](https://user-images.githubusercontent.com/96851523/147739271-50d5ec84-172a-4707-bd6b-b5f2d63ebd9f.png)
+    ![image](https://user-images.githubusercontent.com/96851523/147739271-50d5ec84-172a-4707-bd6b-b5f2d63ebd9f.png)
     
 ## Interacted plot
     The plot show the phi and psi based on above total dataframe from pre-processing

@@ -9,7 +9,7 @@
     See details in 合并df.zip
     data cleaning and merge.
     Verify the data with Biopython output.
-    ![image](https://user-images.githubusercontent.com/96851523/147740442-92149f4b-e665-42c5-b36f-4f897eff050d.png)
+    ![image](https://github.com/xiaolianshiwo/Python-final-project-group2/blob/gallery/verify.png)
     
 ## RAMAplot model
     See details in code_for_RAMA_plot.ipynb
